@@ -1,0 +1,47 @@
+.. 'aaa · suerro· 111.
+
+g-{zp transcendenter ingrediatur. Hoc modo scilieet resolutio ad
+
+integrationem aequationis differentialis separatae· ³33: ἐξ perduci·
+
+tur, quemadmodum etiam supra per priorem methodum negotium
+suit expeditum. Altera vero methodus, qua supra usi sumus, quae·
+rendo factorem qui aequationem differentialem reddat per se inte·
+grabilem, hic plane locum non habet, cum per differentiationem te·
+quationis finitae nunquam differentialis ad plures dimensiones exsur-
+gere queant. Non ergo boc modo invenitur aequatio finita inter a
+et y, quae dill'ercntiata ipsam aequationem propositam reprodueat,
+scd quae saltem cum ea conveniat, et quidem non obstante arbi·
+. traria illa constante, quae per integrationem ingressa, integrale com·
+pletum reddit.
+
+Exemplum 1.
+
+678. Si in aequationem propositam neutra variabilitate»
+ei y ipsa inprediatur, sed tantum differentialium ratio
+⁸ inteqrale conpletum arsipnarc.
+
+Posito crgo 3—{23 p, aequatio proposita solam variabilem p
+
+cum constantibus complectetur, unde ex ejus resolutione, prout plu·
+
+res involvat radices, orietur p .·.-. α, p z β, p: a( etc. Jarn ob
+
+ρΞΞ-Ξ, er singulis radicibus integralia completa eliciantur, quae
+
+erunt
+yzaac—l-a, yzssa-l—b, yzqrae-l-c, ete.
+
+quae singula aequationi propositae aeque satisfaciunt. Quae si re·
+limus omnia una aequatione finita complecti, erit integrale com·
+
+pletum
+(y-ax-amy-ssa-omy-ra-c)ete.:.·o,
+
+quae uti apparet non unam novam constantem, sed plures a, b,
+
+c, etc. comprehendit, tot scilicet, quot aequatio differentialis plu·
+rium dimensionum habuerit radices.
+
+ 
+

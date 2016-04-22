@@ -1,0 +1,45 @@
+aa cmcnuo mraanam
+
+Scholion l.
+
+lt. llic unica tanturn quantitas variabilis in computum in· ,,
+gredi videtur, eum tamen statuamus tam in calculo differentiali
+
+quam integrali, semper rationem duorum pluriumve differentialium ·
+
+spectari. Verum etsi hic, una tantum quantitas variabilis x apparet,
+tamen revera duae considerantum altera enim est ipsa illa lunatio,
+euius differentiale sumimusy esse X d x, quae si designetur littera y,
+
+erit dy: X ὸ x, seu X} y: X, ita ut hie omnino ratio differen-
+
+tialium &aaa proponatur, quae est t..··:X, indeque erit yzsde:
+hoc autem integrale uon tam ex ipso differentiali Xbar, quod
+vtique est: ο, qnam ex eius ratione ad bx inveniri est censen-
+dum Caeterum hac signum s vocabulo summae efferri solet, quod
+ex conceptu parum idoneo, quo integrale tanquam summa omnium
+differentialium spectatur, est natum; neque maiore iur'e . admitti
+potest, quam vulgo lineae ea punctis constare concipi solent.
+
+Scholion 2.
+
+12. 'At calculus· integralis multo latius qnam ad huiusmodi
+somnulas integrandas patet, quae unicam variabilem complectuntur.
+Quemadmodum enim hie functio unius variabilia x ex datadilleren-
+tialis forma investigatum ita calculus integralis quoque extendi debet·
+⁸ ad lunationes duarum pluriumve variabilium investigandas, eum re·
+latio quaedam differentialium fuerit proposita. Deinde calculus ln·
+tegralis non solum ad differentialis primi ordinis adstringitur, sed
+, etiam praecepta tradere debet, quorum ope functiones tam unius
+quam duarum pluriumve variabilium investigari queant, eum relatio
+quaedam differentialium secundi altiorisve ‘cuiusdam ordinis luerit
+data. Atque hane ob rem definitionem calculi integralis ita instru-
+ximus, vt omnes huiusmodi investigationes in se complecteretur3 dif- -
+serentialia enim cuiusque ordinis intelligi debent, et voce relationis,
+quae inter ea proponatur, sum'usus, ut latius pateret voce rationis,
+quae tantum duorum differentialium comparationem indicare videa·
+
+tur. Ex his erga divisionem calculi integralis canantuere poterimus.
+
+ 
+

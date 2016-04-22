@@ -1,0 +1,42 @@
+DE CALCULO INTEGRALI
+
+Scholion l.
+
+6. In calculo differentiali iam notavi, quaestionem de differen-
+tialibus non absolute scd relative esse intelligendam, itaut, siy
+suerit functio quaecunque ipsius x, non tam ipsum eius dill'erentiale
+By, quam eius ratio ad differentiele dx sit definienda. Cum enim
+omnia differentialia per se sint nihilo aequalia, quaecunque iunctio
+y fuerit ipsius x, semper est dtr-30, neque sic quicquam amplius
+absolute quaeri posset. Verum quaestio ita rite proponi debet, ut
+dum a· incrementum capit infinite parvum adeoque evanescens dx,
+definiatur ratio inerementi functionis y, quod inde capiet, ad istud
+bac: etsi enim utrumque -est z 0, tamen ratio certa inter' ea in-
+tercedit, quae in calculo differentiali proprie investigatur. ltn si
+fuerit p: x x, in calculo differentiali ostenditur esse ἓξ : 2 x,
+
+neque hanc incrementorum rationem esse veram, nisi incrementum ἑ
+ὸ ae, ex quo ὸ y nascitur, nihilo aequale statuatur. Verum tamen ,
+liae vera differentialium notione observata, locutiones communes,
+quibus differentialia quasi absolute enuncientur, tolerari possunt,
+dummodo semper in mente saltem ad veritatem referantur. Recte
+ergo dicimus, si y: aex, sore by t: 2xdx, tam etsi salsum non
+esset, si quis diceret ὸ y z: 3xdx, vel dy Ξ ledae, quoniam ob
+dx Ξ 0 et dy z: θ’, hae aequalitates aeque subsisterent3 sed prima
+
+sola rationi verae g} 3: 2'x est consentanea..
+
+Scholion 2.
+
+6. Quemadmodum calculus differentialis apud Anglos 'methodus
+durionum appellatur, ito calculus integralis ab iis methodus llurio·
+num inuersa vocari solet, quandoquidem citationibus ad quanti·
+tates fluentes revertitur. Quas enim nos quantitates variabiles vo·
+eamus, eas Angli nomine magis idoneo quantitates fluentes vocant,
+-et earum incrementa infinite parva seu evanescentia fluxiones no·
+minant, ita vt fluxiones ipsis idem sint, quod nobis differentialis.
+Haec diversitas loquendi ita iam usu invaluit, ut conciliatio vix
+unquam sit expectanda, equidem Anglos in. formulis loquendi luben·
+
+ 
+

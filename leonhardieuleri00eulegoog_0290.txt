@@ -1,0 +1,44 @@
+ΖΝ ¹ eleut* 11,
+
+suscipitur, per divisionem tolli solent, quandoquidem non ex natum
+rei, sed peu operationes institutas demum accessisse censentur, its
+ut perinde ac in Algebra saepe fieri solet, n'd solutiones inutilem·
+sent perducturi.
+
+Problema 68.
+
+stt. Proposita aequatione differentiali homogenea‚ multipli-
+· calorem idoneum invenire, qui eam integrabilem reddat, indeque
+ejus integrale eruere,
+
+Solutio.
+
+Sit Pisi-Q& 51:20 aequatio proposita, in qua P et Q sint
+functiones homogeneae n dimensionum ipsalum x et y, ao quaera-
+mus multiplicatorem L, qui sit etiam functio homogenea, eujus di·
+mensionum numerus sit λ. Cum jam formula L (Pae-t-Qay) sit
+integrabilis, erit integrale functio >li-nii dimensionum ipsarum
+' x et y, quae iunctio si ponatur Z, erit en nutura. functionum ho·
+³ mogenearum ' ’
+
+LPx÷LQy:(n-1-n÷1)z.
+Quare si λ sumatur :—n—l, quantitas LPx-l-LQy erit vel
+
+ΞΟ, uel constans, unde obtinemus 1³:13*ssOE , qui ergo est mul·
+
+tiplicator idoneus pro, nostra aequatione. Idem quoque ex separa·
+tione variabilium colligitur: posito enim yzuam fiet szlU et
+Q:ae'²V, existentibus U et V functionibus u ipsius tautum¹ et ob
+
+ὂμεαόω-ὶςωόιι
+
+erit Pax-tQbyzxtuixs-aetvm-t-atvoebu,
+seuPha-i-Qnyzaelffl-l-Vsa>3x†ae'¹†¹lliu. .
+
+At haec formula per x²¹÷¹(U-†-Vu) divisa fit integrabiliS,
+ideoque et formula nostra Pax-l-Qoy diviso per
+
+a⁸÷¹tv÷va>zpae÷oy‚
+
+ 
+

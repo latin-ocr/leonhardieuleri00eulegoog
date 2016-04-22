@@ -1,0 +1,42 @@
+IN GENERE.
+Definitio 3.
+
+1 13. Calculus integralis dividitur Α in duaa partes, quarum prior
+tradit methodum, functionem ⁴ unius variabilis inveniendi ex data
+quadam relatione inter eius differentialis tam primi quem altiorum =
+ordinum. ’ ’ ’
+
+Pare autem altera methodum eontInet, functionem duarum plu·
+riumve variabilium inveniendi, eum relatio inter eius differentialis
+sive primi sive altioris cuiusdam gradus suerit proposita.
+
+Corollarium 1.
+
+14. Prout ergo functio ex data differentialium relatione inve·
+nienda, vel unicam variabilem complectitur, vel duas pluresve,
+inde calculus integralis commode in dnae partes principales dispes-
+citur, quibus exponendis datos libros destinamus.
+
+corollarium 2.
+
+16. Semper igitur calculus integralis in inventione functionum
+relunius vel plurium variabilium versatur, cunt scilicet relatio quae·¹
+
+piam inter eius differentialia eive altioris cuiuspiam ordinis fuerit·
+proposrta. ·
+
+Scholion.
+
+16, Cum hio primam partem calculi integralis in investiga·
+tione functionum unicae variabilis ex data differentialium relatione
+constituamus, plures partes pro 'numero variabilium functionem in·
+gredientium constitui debere videatur, ita ut pars secunda functio-
+nes duarum variabilium, tertia trium, quarta quatuor ete. complec-
+tatur. Verum pro his posterioribus partibus methodus fere eadem
+requiritur, ita ut si inventio functionum duas variabiles involventium
+suerit in potestate, via ad eas, quae plures variabiles implicant,
+satis sit·patefacta; unde inventionem eiusmodi functionum, quae
+duas pluresve variabiles continent, commode coniungimus, indeque
+
+ 
+

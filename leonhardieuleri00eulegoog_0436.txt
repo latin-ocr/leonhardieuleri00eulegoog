@@ -1,0 +1,44 @@
+llo SECTIO 111.
+
+senonen 2.
+
+673. Cum igitur hunc casnm, quo aequatio rel intera· et
+p uel inter y etp proponitur, generatim expedire licuerit, viden·
+
+, dum est quibus casibus evolutio succedat, v,quando omnes tres quan·
+
+titates ac, y et p in aequatione proposita insunt. Ac primo qui·
+dem observo, dummodo binae sanabiles ,x et y 'ubique eun·
+dem dimensionum numerum adimpleant, quomodocunque praetcrea
+quantitas p ingrediatur, resolutionem semper wad ossus >ante tracta·
+tos revocari posse3 talesscilicet aequationes perinde tractare licet,
+atque aequationes homogeneas‚ ad quod ⁸genus etiam merito refe·
+runtur, cum dimensiones a¹ ,differentialibus natae ubique debeant es·
+se pares, et indicium ex ‚solis quantitatibus linitis sc ‚et y peti opor›
+teat. Quae ergo dummodo ubique eundem dimensionum numerum
+constituant, ,aequatio pro ,homogenea ‚erit habenda, ,ueluti est
+
+‚mady—'yyplfflff-t-Wmo ¹seu
+arax-rurs (1.÷pp>:0.
+
+’ Deinde etiam ejusmodi aequationes evolutionem admittunt, in qui·
+
+bus altera variabilis cc vel ,y plus una dimensione nusquam habet,
+
+utcunque praeterea differentialium ratio 12:93 ingrediatur. Hos er·
+
+‚go casus hie accuratius explicemus.
+
+Problema 289.
+
+old. Posito p:}}‚ si in aequatione inter ae, y et ppro-
+posita binae variabiles cc et y ubique eundem dimensionum nume-
+rum compleant, invenire relationem inter m et y, quae illius ac·
+
+quationis sit integrale completum.
+
+S o l u t i o.
+Cum in aequatione inter x, y et p proposita binae variabiles
+
+ 
+

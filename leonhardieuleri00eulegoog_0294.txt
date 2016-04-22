@@ -1,0 +1,47 @@
+298 CAPUT Il.
+
+,Ιίὸί-ψ-ὃὸα, si per v dividatur, separari,- ita ut in hae formula
+
+Q quantitas 341„ functio solius t, ct ᾖ functio solius tt.
+
+v
+Cum igitur formula &Vb-⁸³3 per se sit integrabilis, etiam integra·
+
+bilis erit haec Q quippe illi aequalis, siquidem in V caria·
+
+biles a· et y restituantur. Hinc ergo ex reductione ud separabilita-
+tem aequationis Pax-t-Qayzo discimus, multiplicatorem quo
+
+ea integrabilis reddatur, esse ᾗ, sicque quas aequationes ad sepa·
+
+rationem variabilium perducere licet, pro iisdem multiplicatorem,
+qui illas integrabiles reddat, assignare possumus.
+
+Corollarium 1.
+
+aas. Methodus ergo per multiplicatores integrandi aequatio·
+nes differentiales aeque late patet ac prior methodus, ope separa·
+tionis variabilium3 propterea quod ipsa separatio pro quavis aequa·
+tione, ubi succedit, multiplicatorem suppeditat.
+
+Corollarium 2.
+
+dssl. Contra autern methodus per multiplicatores integrandi
+latius patet altera, si pro ejusmodi aequationibus multiplicatores as·
+
+signare liccat, quae quomodo ad separationem perduci debeant, nou
+constet.
+
+Scholion.
+
+aaa. Etsi autem ex reductione ad separationem idoneum mul·
+tiplicatorem elicere licet, tamen nondum intelligitur, quomodo cogni·
+to multiplicatore, separatio variabilium institui debeat, quare etiam
+ob hanc rationem methodus per multiplicatoresintegrandi alteri longe
+praeferenda¹ ridetur. Quamvis enim hactenus ipsa separatio nos ad
+inventionem multiplicaturum perduxerit, nullum tamen est dubium
+quin detur viu multiplicatores inveniendi, nullo respectu ad separa·
+donem habito, licet haec via etiamnum nobis sit incognita. Ea au·
+
+ 
+

@@ -1,0 +1,44 @@
+6 DE CALCULO INTEGRALI
+
+unicam partem calculi integralis constituimus, posteriori libro trac·
+tandem.
+
+f Caeterum haee altera pars in· elementis adhuc nusquam est
+tractata, etiarnsi cius usus in Mechanica ac praecipue inrdoctrina
+fluidorum maximi sit usus. Quocirca curn in hoc genere praeter
+prima rudimenta vix quicquam sit exploratum, noster secundus liber
+de calculo integrali admodum erit sterilis, ac practer commemora·
+tionem eorum, quae adhuc desiderantur, parum erit expectandum
+
+rerum hoc ipsum ad scientiae incrementum multum conferre vide·
+tur„
+
+Definitio 4.
+
+tt. Uterque· de calculo integrali liber commode subdividitur
+in partes pro gradu dilierentialiurn, ert quorum relatione unctionem
+quaesitam investigari oportet lta prima pars versatur in relatione
+-tliffer·cntialium primi gradus, secunda in relatione differentialium se·
+cundi gradus, quorsum etiarn differentialis altiorum graduum ob
+tenuitatem eorum, quae adhuc sunt investigata, referri possunt.
+
+C or-otllariuru l. .
+
+. 11¹8. ‘Uterque ergo 'liber constabit duabus parturus, in quarunt
+priore relatio inter differentialis primi >gradus proposita considera·
+bitur, in posteriore vcro eiusmodi integrationes occurrent, vbi rela-
+tio inter dillcrcntialia secundi altiorumve graduum proponit-un
+
+¹corollarium 2.
+
+Μ. In primi :ergo libri ,parte prima eiusmodi functio variabi-
+lis x invenienda proponitur, ut posita ea functione 2y, et
+
+ἑξεῖ), relatio quaecunque data inter has tres quantitates ac, yetp
+
+adimplentur: seu proposita <quacunque aequatione inter has ternas
+quantitates, ut indoles functionis y seu aequatio inter x et y tan·
+tum, exclusa p, eruatur.
+
+ 
+
